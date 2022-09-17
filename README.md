@@ -23,4 +23,4 @@
 
 
 # Наборы данных 
-Satimage-2, Cifar10 (аномальный класс 'airplane'), Mammography.
+Satimage-2, Cifar10, Mammography.
