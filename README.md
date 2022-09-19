@@ -26,7 +26,7 @@
 
 File to run:
 
-        executor/executor.py
+        k_nn.py
 
 ## Additional Information
 
