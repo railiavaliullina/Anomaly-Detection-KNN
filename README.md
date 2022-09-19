@@ -2,8 +2,8 @@
 
 ## About The Project
 
-1) Implementation of KNN algorithm for anomaly detection task
-2) Implementation of metrics:
+1) Implementation of KNN algorithm for anomaly detection task,
+2) Implementation of the following metrics:
 
     - Average precision,
     
@@ -13,11 +13,11 @@
   
 3) data visualization (using Plotly),
 
-4) search for k, which gives the best average precision,
+4) searching for k, which gives the best average precision,
 
 5) building a precision-recall curve,
 
-6) search for the best F1-score, 
+6) searching for the best F1-score, 
 
 7) building a confusion matrix for a given threshold.
 
