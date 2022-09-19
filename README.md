@@ -1,9 +1,9 @@
+# Anomaly-Detection-KNN
 
-# Реализовано
+## About The Project
 
-- алгоритм KNN,
-
-- метрики:
+1) Implementation of KNN algorithm for anomaly detection task
+2) Implementation of metrics:
 
     - Average precision,
     
@@ -11,16 +11,27 @@
     
     - Confusion matrix.
   
-- визуализация данных,
+3) data visualization (using Plotly),
 
-- поиск k, дающего лучший average precision,
+4) search for k, which gives the best average precision,
 
-- построение precision-recall кривой,
+5) building a precision-recall curve,
 
-- поиск лучшего F1-score, 
+6) search for the best F1-score, 
 
-- построение confusion matrix для данного порога.
+7) building a confusion matrix for a given threshold.
 
 
-# Наборы данных 
-Satimage-2, Cifar10, Mammography.
+## Getting Started
+
+File to run:
+
+        executor/executor.py
+
+## Additional Information
+
+Datasets, which were used: 
+
+        1) Satimage-2,
+        2) Cifar10, 
+        3) Mammography.
